@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Data Structures And Algorithms CPP" Database="" Version="10000">
+  <VirtualDirectory Name="Arrays">
+    <Project Name="ArraysIntroduction" Path="ArraysIntroduction/ArraysIntroduction.project" Active="No"/>
+    <Project Name="SumOfTheArrayElements" Path="SumOfTheArrayElements/SumOfTheArrayElements.project" Active="No"/>
+    <Project Name="LargestOfTheArrayElements" Path="LargestOfTheArrayElements/LargestOfTheArrayElements.project" Active="No"/>
+    <Project Name="SwappingTwoNumbers" Path="SwappingTwoNumbers/SwappingTwoNumbers.project" Active="No"/>
+    <Project Name="PrintingArrayInReverseOrder" Path="PrintingArrayInReverseOrder/PrintingArrayInReverseOrder.project" Active="No"/>
+    <Project Name="ReversingArrays" Path="ReversingArrays/ReversingArrays.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ArraysIntroduction" ConfigName="Debug"/>
+      <Project Name="SumOfTheArrayElements" ConfigName="Debug"/>
+      <Project Name="LargestOfTheArrayElements" ConfigName="Debug"/>
+      <Project Name="SwappingTwoNumbers" ConfigName="Debug"/>
+      <Project Name="PrintingArrayInReverseOrder" ConfigName="Debug"/>
+      <Project Name="ReversingArrays" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ArraysIntroduction" ConfigName="Release"/>
+      <Project Name="SumOfTheArrayElements" ConfigName="Release"/>
+      <Project Name="LargestOfTheArrayElements" ConfigName="Release"/>
+      <Project Name="SwappingTwoNumbers" ConfigName="Release"/>
+      <Project Name="PrintingArrayInReverseOrder" ConfigName="Release"/>
+      <Project Name="ReversingArrays" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
