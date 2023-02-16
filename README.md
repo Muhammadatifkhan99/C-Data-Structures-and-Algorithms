@@ -23,7 +23,7 @@ This will execute the compiled program and show the output.
 
 Note that you need to have the `g++` compiler installed on your system to be able to compile C++ programs on the command line.
 
-# Arrays
+## Arrays
 ### ArraysIntroduction
 
 Introduction to arrays in C++.
@@ -55,7 +55,3 @@ Implementation of a function to swap two numbers.
 ## Contributing
 
 Contributions to this repository are welcome. If you have any ideas or suggestions for improvement, please create a pull request or open an issue.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/LICENSE) file for more details.
